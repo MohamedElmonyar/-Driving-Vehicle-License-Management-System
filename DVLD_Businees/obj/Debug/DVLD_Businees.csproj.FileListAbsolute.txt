@@ -1,0 +1,9 @@
+C:\Users\Mohamed Elmonaier\source\repos\C#Projects\DVLD_Businees\bin\Debug\DVLD_Businees.dll
+C:\Users\Mohamed Elmonaier\source\repos\C#Projects\DVLD_Businees\bin\Debug\DVLD_Businees.pdb
+C:\Users\Mohamed Elmonaier\source\repos\C#Projects\DVLD_Businees\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Mohamed Elmonaier\source\repos\C#Projects\DVLD_Businees\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Mohamed Elmonaier\source\repos\C#Projects\DVLD_Businees\obj\Debug\DVLD_Businees.csproj.AssemblyReference.cache
+C:\Users\Mohamed Elmonaier\source\repos\C#Projects\DVLD_Businees\obj\Debug\DVLD_Businees.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Elmonaier\source\repos\C#Projects\DVLD_Businees\obj\Debug\DVLD_Bus.EBB0E61B.Up2Date
+C:\Users\Mohamed Elmonaier\source\repos\C#Projects\DVLD_Businees\obj\Debug\DVLD_Businees.dll
+C:\Users\Mohamed Elmonaier\source\repos\C#Projects\DVLD_Businees\obj\Debug\DVLD_Businees.pdb

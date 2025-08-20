@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60BDF7E1-5422-4EEB-A77F-1A485CB58EF2}|DVLD.csproj|c:\\users\\mohamed elmonaier\\source\\repos\\c#projects\\dvld\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BDF7E1-5422-4EEB-A77F-1A485CB58EF2}|DVLD.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BDF7E1-5422-4EEB-A77F-1A485CB58EF2}|DVLD.csproj|C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60BDF7E1-5422-4EEB-A77F-1A485CB58EF2}|DVLD.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BDF7E1-5422-4EEB-A77F-1A485CB58EF2}|DVLD.csproj|C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD\\frmreplacelicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BDF7E1-5422-4EEB-A77F-1A485CB58EF2}|DVLD.csproj|solutionrelative:frmreplacelicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC14202-4FE2-4291-B26D-CCA17FA8A09C}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\mohamed elmonaier\\source\\repos\\c#projects\\dvld_dataaccess\\clslicense_da.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BDF7E1-5422-4EEB-A77F-1A485CB58EF2}|DVLD.csproj|C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD\\ctrnfindlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BDF7E1-5422-4EEB-A77F-1A485CB58EF2}|DVLD.csproj|solutionrelative:ctrnfindlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:05:59.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:05:57.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsLicense_DA.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD_DataAccess\\clsLicense_DA.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsLicense_DA.cs",
+              "ToolTip": "C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD_DataAccess\\clsLicense_DA.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsLicense_DA.cs",
+              "ViewState": "AgIAAEwBAAAAAAAAAAAtwFkBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:03:50.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmReplaceLicense.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD\\frmReplaceLicense.cs",
+              "RelativeDocumentMoniker": "frmReplaceLicense.cs",
+              "ToolTip": "C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD\\frmReplaceLicense.cs",
+              "RelativeToolTip": "frmReplaceLicense.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:00:55.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ctrnFindLicense.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD\\ctrnFindLicense.cs",
+              "RelativeDocumentMoniker": "ctrnFindLicense.cs",
+              "ToolTip": "C:\\Users\\Mohamed Elmonaier\\source\\repos\\C#Projects\\DVLD\\ctrnFindLicense.cs",
+              "RelativeToolTip": "ctrnFindLicense.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvzsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T05:52:01.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
